@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gyan Vihar Info</string>
+    <string name="gyan_vihar_info">Gyan Vihar Info</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="register">register</string>
+    <string name="back_to_login">back to login</string>
+    <string name="t1">home</string>
+    <string name="t2">setting</string>
+    <string name="t3">share</string>
+    <string name="t4">exit</string>
+
+
+</resources>
